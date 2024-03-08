@@ -1,0 +1,31 @@
+h1 {
+    color: blueviolet;
+    font-weight: bolder;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+}
+
+#search {
+    color: blue;
+}
+
+main {
+    max-width: fit-content;
+}
